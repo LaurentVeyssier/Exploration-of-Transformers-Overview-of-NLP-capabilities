@@ -1,4 +1,4 @@
-# Exploration-of-Transformers---Overview-of-the-capabilities
+# Exploration-of-Transformers-Overview-of-NLP-capabilities
 Testing of the possible use of transformers model for various NLP tasks.
 
 The notebook tries the various tasks offered by Transformers architecture as described on Hugginface [here](https://huggingface.co/transformers/v3.1.0/task_summary.html).
@@ -20,7 +20,7 @@ Summary of the tasks implemented in the notebook:
 - Named Entity Recognition (NER)
 - Text summarization
   - pure extractive method
-  - method which appears to combine extractive AND generative using the latest powerful Google t5 model. Refer to a previous analysis in a previous project [here]().
+  - method which appears to combine extractive AND abstractive approach using the latest powerful Google's T5 model. Refer to one of my previous project testing T5 abstractive summarization capabilities [here](https://github.com/LaurentVeyssier/Abstractive-Summarization-using-colab-and-T5-model).
   
 
 Results
